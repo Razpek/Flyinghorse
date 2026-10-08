@@ -1,2 +1,11 @@
 # Flyinghorse
-Flyinghorse is a minecraft utility client for 26.2 it helps with pvp building nd allat other stuff i
+flying horse provides nice visuals and semi decent bypasses (also a fork of grizzly client)
+
+
+
+
+
+
+
+
+uhh this client def has sum modules skidded from old client soo credits to them aswell
